@@ -33,7 +33,6 @@
             "measure": "slice",
             "ingredient": "Fresh Pinapple, Coconut or Lime (optional)"
         }
-
     ],
     "directions": [
         "Add two cups of ice in a 16 oz margarita glass.",
@@ -44,16 +43,13 @@
     ],
     "image": "coco-piñarita.jpg",
     "keywords": [
-        "Margarita",
+        "margarita",
         "coconut",
         "pineapple",
-        "tres agaves",
-        "1800",
         "tequila",
         "organic",
         "lime",
         "fresh",
-        "dole",
         "vegan"
     ]
 }

@@ -45,7 +45,7 @@ import recipes from '../recipes';
 const MAX_DESCRIPTION_LENGTH = 80;
 
 export default {
-  name: 'recipeTile',
+  name: 'RecipeTile',
   props: {
     id: String,
   },
@@ -80,5 +80,10 @@ export default {
 
 .card-text p {
   margin-bottom: 0.5rem;
+}
+
+.card-img-top {
+  height: 212px;
+  object-fit: cover;
 }
 </style>

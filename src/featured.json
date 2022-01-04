@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "title": "Popular Drinks",
     "description": "Popular drinks never going out of style!",
@@ -24,26 +24,55 @@
     "description": "Cozy drinks to warm your heart and get you in holiday mood",
     "items": [
       "christmas-tonic",
-      "white-christmas-mojito"
+      "white-christmas-mojito",
+      "white-christmas-margarita",
+      "coquito",
+      "gingerbread-latte",
+      "mulled-wine",
+      "spiced-harvest-fall-sangria",
+      "grinch-drinks",
+      "glogg",
+      "north-pole",
+      "red-stag-dirty-shirley",
+      "swedish-libre",
+      "hot-toddy",
+      "irish-winter",
+      "mulled-apple-crumble-cider",
+      "turmeric-latte",
+      "jack-frosties"
     ],
-    "size": 6
+    "size": 18,
+    "enabled": false
   },
   {
-    "title": "Everything is Chocolate",
-    "description": "All drink made from chocolate",
+    "title": "Celebration Drinks",
+    "description": "Drinks to celebrate the new year! 🍾🎉🥂",
     "items": [
-        "chocolate-milk",
-        "chocolate-monkey",
-        "clavis-riga",
-        "dom-pedro",
-        "indonesian-avocado-milkshake"
-    ],
-    "size": 6
+      "cranberry-orange-whiskey",
+      "french-75",
+      "blood-orange-champagne-mule",
+      "mind-eraser",
+      "negroni",
+      "cranberry-bourbon",
+      "royal-mojito",
+      "white-bear",
+      "moscow-mule",
+      "espresso-martini",
+      "martini"
+     ],
+    "size": 9,
+    "enabled": false
   },
   {
     "title": "Halloween Drinks",
     "description": "👻 Spooky Drinks for October! 👻",
     "items": [
+      "black-widow",
+      "bloody-eyeball-shot",
+      "dark-and-stormy",
+      "hocus-pocus",
+      "pumpkintini",
+      "screamsicle",
       "zombie",
       "witches-heart",
       "bloody-kirby",
@@ -53,7 +82,7 @@
       "vampiro",
       "drunken-peanut-butter-cups"
     ],
-    "size": 6,
+    "size": 12,
     "enabled": false
   },
   {
@@ -79,6 +108,18 @@
       "rye-tai",
       "sangria",
       "warm-lemon-honey-tea"
+    ],
+    "size": 6
+  },
+  {
+    "title": "Everything is Chocolate",
+    "description": "All drink made from chocolate",
+    "items": [
+        "chocolate-milk",
+        "chocolate-monkey",
+        "clavis-riga",
+        "dom-pedro",
+        "indonesian-avocado-milkshake"
     ],
     "size": 6
   },
@@ -115,7 +156,8 @@
       "zombie",
       "gin-fizz"
     ],
-    "size": 6
+    "size": 6,
+    "enabled": false
   },
   {
     "title": "Strong Drinks",
@@ -154,7 +196,9 @@
       "peanut-butter-banana-smoothie",
       "royal-milk-tea",
       "thandai",
-      "yogurt-fruit-shake"
+      "yogurt-fruit-shake",
+      "nevada",
+      "meia-de-seda"
     ],
     "size": 6
   },
@@ -170,6 +214,7 @@
       "trash-can",
       "vodka-lemonade-punch"
     ],
-    "size": 6
+    "size": 6,
+    "enabled": false
   }
 ]
